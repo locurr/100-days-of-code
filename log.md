@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 2: Sunday July 9, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Jumped into HTML refreshing. Worked for an hour on completing the front end challenges.
 
