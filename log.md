@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: Monday July 10, 2017
+
+**Today's Progress**: Worked for 1:15 tonight. Hit CSS and styling hard. Reached [70] on [freeCodeCamp](https://www.freecodecamp.org/currlo).
+
+**Notes/Thoughts**:
+
 ### Day 2: Sunday July 9, 2017
 
-**Today's Progress**: Jumped into HTML refreshing. Worked for an hour on completing the front end challenges.
+**Today's Progress**: Jumped into HTML refreshing. Worked for an hour on completing the front end challenges. Up to [ 32 ] on freeCodeCamp.
 
 **Thoughts**: In coming days, I plan on at least doubling my coding time, when possible.
 
