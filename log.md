@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: Tuesday July 11
+
+**Today's Progress**: Completed HTML, Bootstrap basics, and jQuery. Current [freeCodeCamp](https://www.freecodecamp.org/currlo) score [112].
+
+**Notes/Thoughts**: Excited to begin the first big project, the tribute page, tomorrow.
+
 ### Day 3: Monday July 10, 2017
 
 **Today's Progress**: Worked for 1:15 tonight. Hit CSS and styling hard. Reached [70] on [freeCodeCamp](https://www.freecodecamp.org/currlo).
