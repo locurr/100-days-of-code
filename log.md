@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 4: Tuesday July 11
+### Day 4: Tuesday July 11, 2017
 
 **Today's Progress**: Completed HTML, Bootstrap basics, and jQuery. Current [freeCodeCamp](https://www.freecodecamp.org/currlo) score [112].
 
