@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 7: Friday July 14, 2017
+
+**Today's Progress**: Completed the tribute project for freeCodeCamp. Before I begin the Personal Portfolio FCC project, I am switching over to codecademy to brush up on HTML and CSS.
+
+**Notes/Thoughts**: In the coming days, I am going to delve into a mobile programming language (most likely Swift) either fully or as something to just break up the HTML coding. >>[Inspiration](http://samvlu.com/).
+
+**Link to Work**: [see earlier post](#day-5-wednesday-july-12-2017)
+
+### Day 6: Thursday July 13, 2017
+
+**Today's Progress**: Continued working on the tribute page project; added timeline events, tried jQuery fadeIn but did not work. 
+
+**Notes/Thoughts**: Will finish content tomorrow, time was cut short today.
+
 ### Day 5: Wednesday July 12, 2017
 
 **Today's Progress**: Began the [freeCodeCamp tribute page project](https://www.freecodecamp.org/challenges/build-a-tribute-page). Completed the header and added a couple of images. 
