@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Days 8 + 9: July 15 + 16, 2017
+
+**Two day's progress**: I wasn't able to take time to log my work saturday, but I worked on and published my webpage for my DJ brand, [Hoologan](http://djhoologan.com). Today, I completed the first section of the git course on [codecademy](https://www.codecademy.com/currlo). I will continue and hopefully finish the course tomorrow.
+
+**Thoughts**: Following the git course, I might continue to break up the HTML work with learning swift and tinkering with xcode.
+
 ### Day 7: Friday July 14, 2017
 
 **Today's Progress**: Completed the tribute project for freeCodeCamp. Before I begin the Personal Portfolio FCC project, I am switching over to codecademy to brush up on HTML and CSS.
