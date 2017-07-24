@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: July 23, 2017
+
+**Today's progress**: Unfofunately, I had a hectic week and was unable to budget time to code and really allow myself to think about what I was doing. Today, I began the "Basic JavaScript" section on freeCodeCamp, completing 20 excercises or so.
+
+**Thoughts/Notes**: Once my school course is over in a week, I will have far more time to work on and complete projects.
+
 ### Days 8 + 9: July 15 + 16, 2017
 
 **Two day's progress**: I wasn't able to take time to log my work saturday, but I worked on and published my webpage for my DJ brand, [Hoologan](http://djhoologan.com). Today, I completed the first section of the git course on [codecademy](https://www.codecademy.com/currlo). I will continue and hopefully finish the course tomorrow.
