@@ -9,10 +9,6 @@
 
 Today, I began the [NodeSchool](https://github.com/workshopper/javascripting) JavaScripting workshop on [c9](https://c9.io/?redirect=0), and will be completing it alongside freeCodeCamp JavaScript challenges to reinforce concepts.
 
-**Work Progress**:
-
-![c9 javascripting](Screenshot%202017-08-01%2022.10.08.png)
-
 ### Day 10: July 23, 2017
 
 **Today's progress**: Unfofunately, I had a hectic week and was unable to budget time to code and really allow myself to think about what I was doing. Today, I began the "Basic JavaScript" section on freeCodeCamp, completing 20 excercises or so.
