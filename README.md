@@ -5,6 +5,14 @@
 
 # 100 Days Of Code - Log
 
+### Day 12: Aug 2, 2017
+
+**Today's Progress**: Completed a handful more challenges from NodeSchool on javascript.
+
+**Thoughts/Notes**:
+
+**Progress**: https://github.com/currlo/nodeschool/commit/8548883b031791f96f036dd209b3988d38d5282a
+
 ### Day 11: Aug 1, 2017
 
 Today, I began the [NodeSchool](https://github.com/workshopper/javascripting) JavaScripting workshop on [c9](https://c9.io/?redirect=0), and will be completing it alongside freeCodeCamp JavaScript challenges to reinforce concepts.
