@@ -5,6 +5,11 @@
 
 # 100 Days Of Code - Log
 
+## Day 13: Aug 6, 2017
+
+**Today's Progress**: Completed the javascripting workshopper, now beginning the html one. See [commit](https://github.com/currlo/nodeschool/commit/24cb97c764f3d12337a800661c3dead05463d6cb) and [this one](https://github.com/currlo/nodeschool/commit/47ae269465b570b0455e76cfd6a3ed99cc36e93f).
+**...Also** [corrected a typo error](https://github.com/denysdovhan/learnyouhtml/pull/3) in the learnyouhtml workshopper.
+
 ### Day 12: Aug 2, 2017
 
 **Today's Progress**: Completed a handful more challenges from NodeSchool on javascript.
