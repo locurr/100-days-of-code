@@ -1,11 +1,19 @@
-# Contents
+# [#100DaysOfCode](https://twitter.com/search?f=tweets&vertical=default&q=%23100DaysOfCode) [Challenge](http://www.100daysofcode.com/)
+
+## Contents
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-# 100 Days Of Code - Log
+## Log
 
-## Day 13: Aug 6, 2017
+### Day 14: Aug 15, 2017
+
+**Today's Progress**: Completed a few basic algorithim scripting challenges on freeCodeCamp (reversing a string, factoralizing a number, checking for palindromes). These are helping to get my mind to think as a programmer, something that I have not done in some time after switching college paths a few times.
+
+**Thoughts/Notes**: I still plan on looking into the swift challenge mentioned earlier, but am trying to hone in on one language for the time being.
+
+### Day 13: Aug 6, 2017
 
 **Today's Progress**: Completed the javascripting workshopper, now beginning the html one. See [commit](https://github.com/currlo/nodeschool/commit/24cb97c764f3d12337a800661c3dead05463d6cb) and [this one](https://github.com/currlo/nodeschool/commit/47ae269465b570b0455e76cfd6a3ed99cc36e93f).
 **...Also** [corrected a typo error](https://github.com/denysdovhan/learnyouhtml/pull/3) in the learnyouhtml workshopper.
